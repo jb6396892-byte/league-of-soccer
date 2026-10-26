@@ -1,0 +1,2 @@
+# Official SDK, supported v1 line; the FastMCP API used by this server.
+mcp==1.30.0

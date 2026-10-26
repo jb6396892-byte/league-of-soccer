@@ -1,0 +1,15 @@
+.godot/
+tools/
+work/
+/dist/
+/NVIDIA Corporation/
+/export_templates/
+/feature_profiles/
+/script_templates/
+/text_editor_themes/
+__pycache__/
+*.py[cod]
+*.tmp
+.env
+.env.*
+.godot/export_credentials.cfg

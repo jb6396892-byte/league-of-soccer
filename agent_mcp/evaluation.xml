@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Catalog baseline: source game on 2026-10-23. Launch once before evaluation;
+     each question uses read-only catalog/resource tools and is independent.
+     Answers derived from actual MCP catalog responses, not a gameplay benchmark. -->
+<evaluation>
+  <qa_pair>
+    <question>在英雄目录中找出己方半场加速、敌方半场减速的后场英雄。已拥有其专属成装需要的全部小件，补齐成装再购买一次该英雄专属 E，还需多少金？只答整数。</question>
+    <answer>430</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>找出需要先按下 W 蓄力、再松开冲刺的英雄。已持有其专属成装的全部配方小件，补齐成装并购买一次该英雄专属 E，共需多少金？只答整数。</question>
+    <answer>480</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>找出可以移动施放投掷 W 的后场英雄。从零购买其专属成装，再买一次专属 E，总价多少？只答整数。</question>
+    <answer>720</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>征服目录中，要求操控固定英雄且丢球立即失败的关卡，若该英雄开局要购买专属成装和一次专属 E，相对初始金币还缺多少？只答整数。</question>
+    <answer>160</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>被动移动速度加 5% 的英雄，从零购买通用成装中同时提供移速 12%、地面接球范围 20% 的装备，再购买一次专属 E，相对开局金币还缺多少？只答整数。</question>
+    <answer>200</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>被动判定增加 10%、移速降低 5% 的英雄，若已有其专属成装的全部配方小件，升级成装并买一次专属 E，总计还要多少金？只答整数。</question>
+    <answer>450</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>查看可移动投掷 W 的后场英雄造成的控制效果，再查看通用 E。哪项通用 E 明确允许在这种控制状态下使用并解除控制？只答中文技能名。</question>
+    <answer>净化</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>征服模式中被要求操控并完成零封的英雄，其专属成装配方里提供地面接球加成的小件叫什么？只答中文装备名。</question>
+    <answer>吸附球袜</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>从肉鸽可学 E 的 ID 找到能够解除眩晕的技能。比较该技能的肉鸽基础冷却与普通商城冷却，肉鸽多几秒？只答整数。</question>
+    <answer>4</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>从肉鸽可学 E 的 ID 找到要求自己持球才能释放的技能。结合普通 E 目录，该技能在常规模式没有球时是否消耗购买次数？只答“消耗”或“不消耗”。</question>
+    <answer>不消耗</answer>
+  </qa_pair>
+</evaluation>
